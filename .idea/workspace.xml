@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea8aa0c4-45cd-48a4-b091-871e028ebe0e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonApp/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonApp/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonApp/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonApp/storage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ea8aa0c4-45cd-48a4-b091-871e028ebe0e" name="Changes" comment="123">
+      <change afterPath="$PROJECT_DIR$/PythonApp/run.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PythonApp/Test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonApp/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/PythonApp/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +111,14 @@
       <option name="presentableId" value="Default" />
       <updated>1704890624624</updated>
     </task>
+    <task id="LOCAL-00001" summary="123">
+      <created>1704969671636</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704969671636</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,5 +131,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
   </component>
 </project>

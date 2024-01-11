@@ -3,7 +3,7 @@ version: "3"
 services:
     python_app:
       build:
-        context: .
+        context: ./PythonApp
         dockerfile: Dockerfile
       depends_on:
         - mongo_db
